@@ -2,13 +2,18 @@
 /* Your CSS Code here. */
 .h{
 	background-color:indianred;
+	color:white;
 }
 .a{
 	background-color:palevioletred;
+	color:white
+/* 	text-align:right; */
 }
 .b{
 	background-color:gray;
 }
 .c{
-	background-color:darkviolet
+	background-color:rosybrown;
 }
+
+
